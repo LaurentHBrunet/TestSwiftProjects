@@ -48,8 +48,8 @@ extension UIView {
     }
     
     
-    func fillSuperview() {
-        anchor(top: superview?.topAnchor, leading: superview?.leadingAnchor, bottom: superview?.bottomAnchor, trailing: superview?.trailingAnchor)
+    func fillSuperview(padding: UIEdgeInsets = .zero) {
+        anchor(top: superview?.topAnchor, leading: superview?.leadingAnchor, bottom: superview?.bottomAnchor, trailing: superview?.trailingAnchor, padding: padding)
     }
     
     func centerInSuperview() {

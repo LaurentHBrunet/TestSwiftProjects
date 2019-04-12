@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		4D9C6F2E2260103500B4EE76 /* DialedNumberHeader.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D9C6F2D2260103500B4EE76 /* DialedNumberHeader.swift */; };
 		4DDF018C225AC084008306DB /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4DDF018B225AC084008306DB /* AppDelegate.swift */; };
 		4DDF018E225AC084008306DB /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4DDF018D225AC084008306DB /* ViewController.swift */; };
 		4DDF0191225AC084008306DB /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4DDF018F225AC084008306DB /* Main.storyboard */; };
@@ -17,6 +18,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		4D9C6F2D2260103500B4EE76 /* DialedNumberHeader.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DialedNumberHeader.swift; sourceTree = "<group>"; };
 		4DDF0188225AC084008306DB /* AdaptiveLayoutExample.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = AdaptiveLayoutExample.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		4DDF018B225AC084008306DB /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		4DDF018D225AC084008306DB /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -66,6 +68,7 @@
 				4DDF0197225AC085008306DB /* Info.plist */,
 				4DDF019D225AC5C4008306DB /* KeyCell.swift */,
 				4DDF019F225AC755008306DB /* UIViewAutoLayoutExtension.swift */,
+				4D9C6F2D2260103500B4EE76 /* DialedNumberHeader.swift */,
 			);
 			path = AdaptiveLayoutExample;
 			sourceTree = "<group>";
@@ -145,6 +148,7 @@
 				4DDF019E225AC5C4008306DB /* KeyCell.swift in Sources */,
 				4DDF018C225AC084008306DB /* AppDelegate.swift in Sources */,
 				4DDF01A0225AC755008306DB /* UIViewAutoLayoutExtension.swift in Sources */,
+				4D9C6F2E2260103500B4EE76 /* DialedNumberHeader.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
