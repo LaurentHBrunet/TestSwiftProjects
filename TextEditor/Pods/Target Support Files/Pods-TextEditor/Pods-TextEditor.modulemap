@@ -1,0 +1,6 @@
+framework module Pods_TextEditor {
+  umbrella header "Pods-TextEditor-umbrella.h"
+
+  export *
+  module * { export * }
+}
